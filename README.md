@@ -53,7 +53,7 @@ pip install -U discord.py tzdata
 ```
 
 ### 3️⃣ Configure o token
-Abra o arquivo `discord-bot-aniversarios.py` e insira seu token:
+Abra o arquivo `aurorabot.py` e insira seu token:
 ```python
 TOKEN = "SEU_TOKEN_DO_BOT_AQUI"
 ```
@@ -63,7 +63,7 @@ TOKEN = "SEU_TOKEN_DO_BOT_AQUI"
 
 ### 4️⃣ Execute o bot
 ```bash
-python discord-bot-aniversarios.py
+python aurorabot.py
 ```
 
 Aurora aparecerá **online** e pronta para celebrar sob o céu da aurora 🌌.
@@ -82,7 +82,7 @@ Aurora aparecerá **online** e pronta para celebrar sob o céu da aurora 🌌.
 
 ```
 AuroraBot/
-├── discord-bot-aniversarios.py   # Código principal do bot
+├── aurorabot.py   # Código principal do bot
 ├── birthdays.db                   # Banco de dados SQLite (criado automaticamente)
 └── README.md                      # Este arquivo
 ```
@@ -91,7 +91,7 @@ AuroraBot/
 
 ## ⚓ Créditos
 
-- **Desenvolvido por:** Victor Augusto Lima Barbosa  
+- **Desenvolvido por:** Victor Barbosa 
 - **Servidor:** Tripulação  
 - **Inspirado em:** Aurora, de *League of Legends* (Riot Games)
 
