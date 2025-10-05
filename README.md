@@ -43,13 +43,13 @@ Criado para o servidor **Tripulação**, o bot envia mensagens temáticas tanto 
 
 ### 1️⃣ Clone o repositório
 ```bash
-git clone https://github.com/seuusuario/aurora-bot.git
-cd aurora-bot
+git clone https://github.com/frtvi/AuroraBot
+cd AuroraBot
 ```
 
 ### 2️⃣ Instale as dependências
 ```bash
-pip install -U discord.py tzdata
+pip install -U discord tzdata
 ```
 
 ### 3️⃣ Configure o token
