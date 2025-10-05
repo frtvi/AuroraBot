@@ -92,7 +92,7 @@ AuroraBot/
 ## ⚓ Créditos
 
 - **Desenvolvido por:** Victor Barbosa 
-- **Servidor:** Tripulação  
+- **Com carinho para o servidor da Tripulação**  
 - **Inspirado em:** Aurora, de *League of Legends* (Riot Games)
 
 ---
